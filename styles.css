@@ -1,0 +1,13 @@
+:root {
+    --bg: #fffffe;
+    --headline: #094067;
+    --paragraph: #5f6c7b;
+    --button: #3da9fc;
+    --secondary: #ef4565;
+}
+
+* {
+    background-color: var(--bg);
+    margin: 0;
+    padding: 0;
+}
